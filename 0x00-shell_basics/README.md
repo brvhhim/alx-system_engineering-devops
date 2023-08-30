@@ -1,1 +1,1 @@
-Readme file #1
+This file contains script that prints the absolute path of the current working directory
