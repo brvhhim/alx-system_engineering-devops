@@ -1,1 +1,1 @@
-This file contains script that prints the absolute path of the current working directory
+This file contains scripts for certain requirements
