@@ -1,0 +1,2 @@
+chmod -R a+x
+chmod ugo+x /0x01-shell_permissions
